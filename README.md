@@ -1,4 +1,4 @@
-Contents:
+What you can expect in each file:
 
 D210: Data Visiualization- covers data visualizations, audio representations, and interactive dashboards utilizing Tableau.
 
