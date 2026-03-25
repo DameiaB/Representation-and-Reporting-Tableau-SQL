@@ -70,5 +70,4 @@ These filters enable dynamic exploration of patient data across various dimensio
 
 ## 👨‍💻 Author
 
-**Dameia Brewster**   
-🔗 [LinkedIn](https://www.linkedin.com/in/dameiabrewster/)  
+**Dameia Brewster** 
