@@ -1,7 +1,10 @@
 What you can expect in each file:
 
-D210: Data Visiualization- covers data visualizations, audio representations, and interactive dashboards utilizing Tableau.
+Power BI Dashboard: Healthcare Performance Tracking Tool
 
-D211: Advanced Data Acquisition- covers covers advanced SQL operations, aggregating data, and acquiring data from various sources
+WGU Tableau Project: covers data visualizations and interactive dashboards
 
-D214 Capstone: Logistic Regression and Chi-Squared Analysis
+Data Acquisition Project: covers covers advanced SQL operations, aggregating data, and acquiring data from various sources
+
+WGU Capstone: Logistic Regression and Chi-Squared Analysis
+
